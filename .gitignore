@@ -1,0 +1,6 @@
+*vsdx
+*.sql
+secret.py
+*pycache*
+images*
+*gv*
